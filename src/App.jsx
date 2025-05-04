@@ -1,0 +1,1 @@
+<Aquí iría el contenido de App.jsx que ya está en el proyecto en el canvas>
